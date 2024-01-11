@@ -11,8 +11,8 @@ if [ "$sn" != "s" ]; then
 fi
 
 
-rm -rf st 
-rm -rf config.h
-rm -f *.o 
-rm -f *.orig
-rm -f *.rej
+rm -rvf st 
+rm -rvf config.h
+rm -fv *.o 
+rm -fv *.orig
+rm -fv *.rej
