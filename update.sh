@@ -16,3 +16,4 @@ rm -rvf config.h
 rm -fv *.o 
 rm -fv *.orig
 rm -fv *.rej
+rm -fv *.out
