@@ -10,8 +10,7 @@ if [ "$sn" != "s" ]; then
   exit 0
 fi
 
-
-rm -rvf st 
+# rm -rvf st 
 rm -rvf config.h
 rm -fv *.o 
 rm -fv *.orig
