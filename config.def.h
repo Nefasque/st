@@ -17,7 +17,8 @@ github.com/Nefasque/st
 /* appearance
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html */
-static char *font = "Fira Code Nerd Font:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Fira Code Nerd Font:pixelsize=14:antialias=true:autohint=true";
+static char *font2 = "IBM Plex Sans JP:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 10;
 
 /* What program is execed by st depends of these precedence rules:
