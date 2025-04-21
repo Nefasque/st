@@ -16,3 +16,4 @@ rm -fv *.o
 rm -fv *.orig
 rm -fv *.rej
 rm -fv *.out
+rm -fv +
